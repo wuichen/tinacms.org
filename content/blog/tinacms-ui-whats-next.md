@@ -1,5 +1,5 @@
 ---
-title: "TinaCMS UI: What's next?"
+title: 'TinaCMS UI: What''s next? So awesome '
 date: '2020-03-13T00:00:00.000Z'
 author: Nolan Phillips
 ---
